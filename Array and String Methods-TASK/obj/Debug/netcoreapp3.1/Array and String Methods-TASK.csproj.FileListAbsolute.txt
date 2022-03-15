@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\bin\Debug\netcoreapp3.1\Array and String Methods-TASK.exe
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\bin\Debug\netcoreapp3.1\Array and String Methods-TASK.deps.json
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\bin\Debug\netcoreapp3.1\Array and String Methods-TASK.runtimeconfig.json
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\bin\Debug\netcoreapp3.1\Array and String Methods-TASK.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\bin\Debug\netcoreapp3.1\Array and String Methods-TASK.dll
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\bin\Debug\netcoreapp3.1\Array and String Methods-TASK.pdb
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.AssemblyInfo.cs
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.dll
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.pdb
+C:\Users\Ali\source\repos\Array and String Methods-TASK\Array and String Methods-TASK\obj\Debug\netcoreapp3.1\Array and String Methods-TASK.genruntimeconfig.cache
